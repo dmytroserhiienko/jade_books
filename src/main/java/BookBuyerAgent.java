@@ -1,5 +1,3 @@
-package src;
-
 import jade.core.Agent;
 import jade.core.AID;
 import jade.core.behaviours.*;
